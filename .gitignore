@@ -1,0 +1,29 @@
+# Node.js
+node_modules/
+dist/
+build/
+coverage/
+.nyc_output/
+*.log
+npm-debug.log*
+
+# TypeScript
+*.js.map
+*.d.ts
+
+# PHP
+vendor/
+.phpunit.result.cache
+*.cache
+
+# Editor
+.vscode/
+.idea/
+*.swp
+*.swo
+.DS_Store
+Thumbs.db
+
+# Environment
+.env
+.env.local
